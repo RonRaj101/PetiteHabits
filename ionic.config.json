@@ -1,0 +1,7 @@
+{
+  "name": "PetiteHabits",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
